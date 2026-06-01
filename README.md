@@ -123,7 +123,7 @@ brew install railway
 
 ```bash
 git clone https://github.com/avacocloud/avaco-railway.git
-cd avaco-railway/railway
+cd avaco-railway
 ```
 
 ---
